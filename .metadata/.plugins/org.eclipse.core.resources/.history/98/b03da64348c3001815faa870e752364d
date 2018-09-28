@@ -1,0 +1,46 @@
+package com.rachel.dypraxicWorking.serive;
+
+import java.util.Optional;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+
+
+import com.rachel.dypraxicWorking.prestedence.dormain.Member;
+import com.rachel.dypraxicWorking.prestedence.respoteriy.MemberResponity;
+
+@Service
+public class MemberSerive {
+	
+	@Autowired
+	MemberResponity memberRepo;
+	
+	
+	public void  getMembers(){
+		memberRepo.findAll();
+	}
+	
+	public void  addMember(Member memberToAdd){
+		memberRepo.save(memberToAdd);
+	}
+	
+	public void update(Member memberToUpdate, Long id){
+		Optional<Member> member =  memberRepo.findById(id);
+		if(member.isPresent()){
+			memberToUpdate.setId(id);
+		}
+
+		memberRepo.save(memberToUpdate);
+	
+	
+		
+	
+	public void deleateMember(Long id){
+		 memberRepo.deleteById(id);
+	}
+		
+	
+     
+
+}
