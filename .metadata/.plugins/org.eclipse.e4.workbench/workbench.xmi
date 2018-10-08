@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ASCII"?>
 <application:Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:advanced="http://www.eclipse.org/ui/2010/UIModel/application/ui/advanced" xmlns:application="http://www.eclipse.org/ui/2010/UIModel/application" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_OPjrwMMfEeiwHbtsxp8FxQ" elementId="org.eclipse.e4.legacy.ide.application" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_OPjrwcMfEeiwHbtsxp8FxQ" bindingContexts="_OPjrw8MfEeiwHbtsxp8FxQ">
-  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;DypraxicWorkingApplicationTests.java&quot; tooltip=&quot;dypraxicWorking/src/test/java/com/rachel/dypraxicWorking/DypraxicWorkingApplicationTests.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/dypraxicWorking/src/test/java/com/rachel/dypraxicWorking/DypraxicWorkingApplicationTests.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;DypraxicWorkingApplication.java&quot; tooltip=&quot;dypraxicWorking/src/main/java/com/rachel/dypraxicWorking/DypraxicWorkingApplication.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/dypraxicWorking/src/main/java/com/rachel/dypraxicWorking/DypraxicWorkingApplication.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.PropertiesFileEditor&quot; name=&quot;application.properties&quot; tooltip=&quot;dypraxicWorking/src/main/resources/application.properties&quot;>&#xD;&#xA;&lt;persistable path=&quot;/dypraxicWorking/src/main/resources/application.properties&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Member.java&quot; tooltip=&quot;dypraxicWorking/src/main/java/com/rachel/dypraxicWorking/prestedence/dormain/Member.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/dypraxicWorking/src/main/java/com/rachel/dypraxicWorking/prestedence/dormain/Member.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;MemberControler.java&quot; tooltip=&quot;dypraxicWorking/src/main/java/com/rachel/dypraxicWorking/controlers/MemberControler.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/dypraxicWorking/src/main/java/com/rachel/dypraxicWorking/controlers/MemberControler.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;MemberResponity.java&quot; tooltip=&quot;dypraxicWorking/src/main/java/com/rachel/dypraxicWorking/prestedence/respoteriy/MemberResponity.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/dypraxicWorking/src/main/java/com/rachel/dypraxicWorking/prestedence/respoteriy/MemberResponity.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;MemberSerive.java&quot; tooltip=&quot;dypraxicWorking/src/main/java/com/rachel/dypraxicWorking/serive/MemberSerive.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/dypraxicWorking/src/main/java/com/rachel/dypraxicWorking/serive/MemberSerive.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Members.java&quot; tooltip=&quot;dypraxicWorking/src/main/java/com/rachel/dypraxicWorking/prestedence/Members.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/dypraxicWorking/src/main/java/com/rachel/dypraxicWorking/prestedence/Members.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
+  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.m2e.editor.MavenPomEditor&quot; name=&quot;pom.xml&quot; tooltip=&quot;dypraxicWorking/pom.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/dypraxicWorking/pom.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.PropertiesFileEditor&quot; name=&quot;application.properties&quot; tooltip=&quot;dypraxicWorking/src/main/resources/application.properties&quot;>&#xD;&#xA;&lt;persistable path=&quot;/dypraxicWorking/src/main/resources/application.properties&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;DypraxicWorkingApplicationTests.java&quot; tooltip=&quot;dypraxicWorking/src/test/java/com/rachel/dypraxicWorking/DypraxicWorkingApplicationTests.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/dypraxicWorking/src/test/java/com/rachel/dypraxicWorking/DypraxicWorkingApplicationTests.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;DypraxicWorkingApplication.java&quot; tooltip=&quot;dypraxicWorking/src/main/java/com/rachel/dypraxicWorking/DypraxicWorkingApplication.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/dypraxicWorking/src/main/java/com/rachel/dypraxicWorking/DypraxicWorkingApplication.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Member.java&quot; tooltip=&quot;dypraxicWorking/src/main/java/com/rachel/dypraxicWorking/prestedence/dormain/Member.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/dypraxicWorking/src/main/java/com/rachel/dypraxicWorking/prestedence/dormain/Member.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;MemberControler.java&quot; tooltip=&quot;dypraxicWorking/src/main/java/com/rachel/dypraxicWorking/controlers/MemberControler.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/dypraxicWorking/src/main/java/com/rachel/dypraxicWorking/controlers/MemberControler.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;MemberResponity.java&quot; tooltip=&quot;dypraxicWorking/src/main/java/com/rachel/dypraxicWorking/prestedence/respoteriy/MemberResponity.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/dypraxicWorking/src/main/java/com/rachel/dypraxicWorking/prestedence/respoteriy/MemberResponity.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;MemberSerive.java&quot; tooltip=&quot;dypraxicWorking/src/main/java/com/rachel/dypraxicWorking/serive/MemberSerive.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/dypraxicWorking/src/main/java/com/rachel/dypraxicWorking/serive/MemberSerive.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Members.java&quot; tooltip=&quot;dypraxicWorking/src/main/java/com/rachel/dypraxicWorking/prestedence/Members.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/dypraxicWorking/src/main/java/com/rachel/dypraxicWorking/prestedence/Members.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
   <tags>ModelMigrationProcessor.001</tags>
   <children xsi:type="basic:TrimmedWindow" xmi:id="_OPjrwcMfEeiwHbtsxp8FxQ" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_O0K0ssMfEeiwHbtsxp8FxQ" label="%trimmedwindow.label.eclipseSDK" x="0" y="0" width="1024" height="768">
@@ -67,16 +67,15 @@
           <tags>persp.actionSet:org.eclipse.debug.ui.breakpointActionSet</tags>
           <tags>persp.newWizSC:org.eclipse.m2e.core.wizards.Maven2ProjectWizard</tags>
           <tags>persp.actionSet:org.eclipse.wst.ws.explorer.explorer</tags>
-          <children xsi:type="basic:PartSashContainer" xmi:id="_PRrQEcMfEeiwHbtsxp8FxQ" selectedElement="_PRrQEsMfEeiwHbtsxp8FxQ" horizontal="true">
-            <children xsi:type="basic:PartStack" xmi:id="_PRrQEsMfEeiwHbtsxp8FxQ" elementId="topLeft" containerData="2500" selectedElement="_PRrQE8MfEeiwHbtsxp8FxQ">
+          <children xsi:type="basic:PartSashContainer" xmi:id="_PRrQEcMfEeiwHbtsxp8FxQ" selectedElement="_PRrQF8MfEeiwHbtsxp8FxQ" horizontal="true">
+            <children xsi:type="basic:PartStack" xmi:id="_PRrQEsMfEeiwHbtsxp8FxQ" elementId="topLeft" containerData="2874" selectedElement="_PRrQE8MfEeiwHbtsxp8FxQ">
               <tags>newtablook</tags>
-              <tags>active</tags>
               <children xsi:type="advanced:Placeholder" xmi:id="_PRrQE8MfEeiwHbtsxp8FxQ" elementId="org.eclipse.ui.navigator.ProjectExplorer" ref="_PNLKkMMfEeiwHbtsxp8FxQ"/>
               <children xsi:type="advanced:Placeholder" xmi:id="_PRrQFMMfEeiwHbtsxp8FxQ" elementId="org.eclipse.ui.views.ResourceNavigator" toBeRendered="false" ref="_PNMYsMMfEeiwHbtsxp8FxQ"/>
               <children xsi:type="advanced:Placeholder" xmi:id="_PRrQFcMfEeiwHbtsxp8FxQ" elementId="org.eclipse.jdt.ui.TypeHierarchy" toBeRendered="false" ref="_PNMYscMfEeiwHbtsxp8FxQ"/>
               <children xsi:type="advanced:Placeholder" xmi:id="_PRrQFsMfEeiwHbtsxp8FxQ" elementId="org.eclipse.jdt.ui.PackagesView" toBeRendered="false" ref="_PRgQ8MMfEeiwHbtsxp8FxQ"/>
             </children>
-            <children xsi:type="basic:PartSashContainer" xmi:id="_PRrQF8MfEeiwHbtsxp8FxQ" containerData="7500" selectedElement="_PRrQGMMfEeiwHbtsxp8FxQ">
+            <children xsi:type="basic:PartSashContainer" xmi:id="_PRrQF8MfEeiwHbtsxp8FxQ" containerData="7126" selectedElement="_PRrQGMMfEeiwHbtsxp8FxQ">
               <children xsi:type="basic:PartSashContainer" xmi:id="_PRrQGMMfEeiwHbtsxp8FxQ" containerData="7000" selectedElement="_PRrQGcMfEeiwHbtsxp8FxQ" horizontal="true">
                 <children xsi:type="advanced:Placeholder" xmi:id="_PRrQGcMfEeiwHbtsxp8FxQ" elementId="org.eclipse.ui.editorss" containerData="7000" ref="_PNBZkMMfEeiwHbtsxp8FxQ"/>
                 <children xsi:type="basic:PartStack" xmi:id="_PRrQGsMfEeiwHbtsxp8FxQ" elementId="topRight" containerData="3000" selectedElement="_PRrQG8MfEeiwHbtsxp8FxQ">
@@ -85,8 +84,9 @@
                   <children xsi:type="advanced:Placeholder" xmi:id="_PRrQHMMfEeiwHbtsxp8FxQ" elementId="org.eclipse.mylyn.tasks.ui.views.tasks" ref="_PRpa4MMfEeiwHbtsxp8FxQ"/>
                 </children>
               </children>
-              <children xsi:type="basic:PartStack" xmi:id="_PRrQHcMfEeiwHbtsxp8FxQ" elementId="bottomRight" containerData="3000" selectedElement="_PRrQJcMfEeiwHbtsxp8FxQ">
+              <children xsi:type="basic:PartStack" xmi:id="_PRrQHcMfEeiwHbtsxp8FxQ" elementId="bottomRight" visible="false" containerData="3000" selectedElement="_PRrQJcMfEeiwHbtsxp8FxQ">
                 <tags>newtablook</tags>
+                <tags>Minimized</tags>
                 <children xsi:type="advanced:Placeholder" xmi:id="_PRrQHsMfEeiwHbtsxp8FxQ" elementId="org.eclipse.ui.views.AllMarkersView" ref="_PRg4AMMfEeiwHbtsxp8FxQ"/>
                 <children xsi:type="advanced:Placeholder" xmi:id="_PRrQH8MfEeiwHbtsxp8FxQ" elementId="org.eclipse.ui.views.PropertySheet" ref="_PRhfEMMfEeiwHbtsxp8FxQ"/>
                 <children xsi:type="advanced:Placeholder" xmi:id="_PRrQIMMfEeiwHbtsxp8FxQ" elementId="org.eclipse.wst.server.ui.ServersView" ref="_PRhfEcMfEeiwHbtsxp8FxQ"/>
@@ -128,10 +128,11 @@
       <tags>categoryTag:Help</tags>
     </sharedElements>
     <sharedElements xsi:type="advanced:Area" xmi:id="_PNBZkMMfEeiwHbtsxp8FxQ" elementId="org.eclipse.ui.editorss" selectedElement="_PNBZkcMfEeiwHbtsxp8FxQ">
-      <children xsi:type="basic:PartStack" xmi:id="_PNBZkcMfEeiwHbtsxp8FxQ" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_c7e08MPgEeiRtvByZ0e_KQ">
+      <children xsi:type="basic:PartStack" xmi:id="_PNBZkcMfEeiwHbtsxp8FxQ" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_TJxpQMSvEeiq_8t5w7P2UQ">
         <tags>newtablook</tags>
         <tags>org.eclipse.e4.primaryDataStack</tags>
         <tags>EditorStack</tags>
+        <tags>active</tags>
         <children xsi:type="basic:Part" xmi:id="_doHxMMMfEeiwHbtsxp8FxQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="DypraxicWorkingApplication.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.gif" closeable="true">
           <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;DypraxicWorkingApplication.java&quot; partName=&quot;DypraxicWorkingApplication.java&quot; title=&quot;DypraxicWorkingApplication.java&quot; tooltip=&quot;dypraxicWorking/src/main/java/com/rachel/dypraxicWorking/DypraxicWorkingApplication.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/dypraxicWorking/src/main/java/com/rachel/dypraxicWorking/DypraxicWorkingApplication.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;329&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
@@ -157,7 +158,7 @@
           <tags>removeOnHide</tags>
         </children>
         <children xsi:type="basic:Part" xmi:id="_ONpWgMM7Eeicirww6kZ4aQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="application.properties" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/file_obj.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.PropertiesFileEditor&quot; name=&quot;application.properties&quot; partName=&quot;application.properties&quot; title=&quot;application.properties&quot; tooltip=&quot;dypraxicWorking/src/main/resources/application.properties&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/dypraxicWorking/src/main/resources/application.properties&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;227&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.PropertiesFileEditor&quot; name=&quot;application.properties&quot; partName=&quot;application.properties&quot; title=&quot;application.properties&quot; tooltip=&quot;dypraxicWorking/src/main/resources/application.properties&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/dypraxicWorking/src/main/resources/application.properties&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;166&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>org.eclipse.jdt.ui.PropertiesFileEditor</tags>
           <tags>removeOnHide</tags>
@@ -175,10 +176,18 @@
           <tags>removeOnHide</tags>
         </children>
         <children xsi:type="basic:Part" xmi:id="_c7e08MPgEeiRtvByZ0e_KQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="DypraxicWorkingApplicationTests.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;DypraxicWorkingApplicationTests.java&quot; partName=&quot;DypraxicWorkingApplicationTests.java&quot; title=&quot;DypraxicWorkingApplicationTests.java&quot; tooltip=&quot;dypraxicWorking/src/test/java/com/rachel/dypraxicWorking/DypraxicWorkingApplicationTests.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/dypraxicWorking/src/test/java/com/rachel/dypraxicWorking/DypraxicWorkingApplicationTests.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;345&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;DypraxicWorkingApplicationTests.java&quot; partName=&quot;DypraxicWorkingApplicationTests.java&quot; title=&quot;DypraxicWorkingApplicationTests.java&quot; tooltip=&quot;dypraxicWorking/src/test/java/com/rachel/dypraxicWorking/DypraxicWorkingApplicationTests.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/dypraxicWorking/src/test/java/com/rachel/dypraxicWorking/DypraxicWorkingApplicationTests.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;31&quot; selectionOffset=&quot;274&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
           <tags>removeOnHide</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_TJxpQMSvEeiq_8t5w7P2UQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="dypraxicWorking/pom.xml" iconURI="platform:/plugin/org.eclipse.m2e.editor/icons/editor-pom.gif" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.m2e.editor.MavenPomEditor&quot; name=&quot;pom.xml&quot; partName=&quot;dypraxicWorking/pom.xml&quot; title=&quot;dypraxicWorking/pom.xml&quot; tooltip=&quot;dypraxicWorking/pom.xml&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/dypraxicWorking/pom.xml&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>org.eclipse.m2e.editor.MavenPomEditor</tags>
+          <tags>removeOnHide</tags>
+          <tags>active</tags>
+          <tags>activeOnClose</tags>
         </children>
       </children>
     </sharedElements>
@@ -186,8 +195,6 @@
       <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view CommonNavigator.LINKING_ENABLED=&quot;0&quot; currentWorkingSetName=&quot;Aggregate for window 1538151775598&quot; org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets=&quot;0&quot;/>"/>
       <tags>View</tags>
       <tags>categoryTag:General</tags>
-      <tags>active</tags>
-      <tags>activeOnClose</tags>
       <menus xmi:id="_PXu0wMMfEeiwHbtsxp8FxQ" elementId="org.eclipse.ui.navigator.ProjectExplorer">
         <tags>ViewMenu</tags>
         <tags>menuContribution:menu</tags>
@@ -283,7 +290,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_O-tQwMMfEeiwHbtsxp8FxQ" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_U8W_EMPcEeiRtvByZ0e_KQ" elementId="print" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" enabled="false" command="_OQ8zLMMfEeiwHbtsxp8FxQ"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_EWR8kMSrEeiq_8t5w7P2UQ" elementId="print" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" enabled="false" command="_OQ8zLMMfEeiwHbtsxp8FxQ"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_O-t30MMfEeiwHbtsxp8FxQ" elementId="additions" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -313,7 +320,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_O-ue4MMfEeiwHbtsxp8FxQ" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_U8dswMPcEeiRtvByZ0e_KQ" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_OQ8L4MMfEeiwHbtsxp8FxQ"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_EWZ4YMSrEeiq_8t5w7P2UQ" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_OQ8L4MMfEeiwHbtsxp8FxQ"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_O-ue4cMfEeiwHbtsxp8FxQ" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -352,7 +359,11 @@
         <tags>TrimStack</tags>
       </children>
     </trimBars>
-    <trimBars xmi:id="_PLV-kMMfEeiwHbtsxp8FxQ" elementId="org.eclipse.ui.trim.vertical2" side="Right"/>
+    <trimBars xmi:id="_PLV-kMMfEeiwHbtsxp8FxQ" elementId="org.eclipse.ui.trim.vertical2" side="Right">
+      <children xsi:type="menu:ToolControl" xmi:id="_XLtYMMSwEeiq_8t5w7P2UQ" elementId="bottomRight(org.eclipse.jst.j2ee.J2EEPerspective)" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.TrimStack">
+        <tags>TrimStack</tags>
+      </children>
+    </trimBars>
   </children>
   <bindingTables xmi:id="_OPjrwsMfEeiwHbtsxp8FxQ" contributorURI="platform:/plugin/org.eclipse.platform" bindingContext="_OPjrw8MfEeiwHbtsxp8FxQ">
     <bindings xmi:id="_OSnm0MMfEeiwHbtsxp8FxQ" keySequence="CTRL+A" command="_OQ7kwsMfEeiwHbtsxp8FxQ"/>
